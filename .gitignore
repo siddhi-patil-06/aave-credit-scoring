@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+*.code-workspace
+
+# System
+.DS_Store
+Thumbs.db
+
+# Output & Artifacts
+*.png
+*.csv
+*.pdf
+*.svg
+
+# Model artifacts or cache
+*.pkl
+*.joblib
+*.h5
+.cache/
+__results__/
+
+# Local execution logs
+*.out
+*.bak
+*.tmp
+
